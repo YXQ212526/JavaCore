@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8192ba5b-3557-4a17-993b-051793cc7129" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JavaCore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaCore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/Demo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/Demo7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/Demo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/Demo8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/Demo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/Demo9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/InputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/InputTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/LoopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/LoopDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/out/production/the third/Demo7.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/out/production/the third/Demo7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/out/production/the third/Demo8.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/out/production/the third/Demo8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/out/production/the third/InputTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/out/production/the third/InputTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/out/production/the third/LoopDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/out/production/the third/LoopDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/out/production/the third/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/out/production/the third/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/src/out/production/the third/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/out/production/the third/hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/the third/the third.iml" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +33,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/the third/src/hello.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/hello.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="13" selection-start-column="13" selection-end-column="13" />
@@ -26,7 +46,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/the third/src/InputTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/InputTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="114" selection-start-line="9" selection-start-column="114" selection-end-line="9" selection-end-column="114" />
@@ -35,7 +55,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/the third/src/LoopDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/LoopDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="20" selection-start-line="20" selection-end-line="20" />
@@ -44,7 +64,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/the third/src/Demo7.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/Demo7.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
@@ -56,7 +76,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/the third/src/Demo8.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/Demo8.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
@@ -64,20 +84,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/the third/src/Demo9.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/Demo9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+            <state relative-caret-position="77">
+              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/the third/src/ReverseString.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="150">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/ReverseString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -104,6 +142,9 @@
         <option value="$PROJECT_DIR$/the third/src/Demo7.java" />
         <option value="$PROJECT_DIR$/the third/src/Demo8.java" />
         <option value="$PROJECT_DIR$/the third/src/Demo9.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/main/java/the third/src/ReverseString.java" />
       </list>
     </option>
   </component>
@@ -115,6 +156,12 @@
         <option name="userSettingsFile" value="$USER_HOME$/Documents/maven/apache-maven-3.6.1/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="27" />
@@ -137,16 +184,35 @@
             <path>
               <item name="learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="the third" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="learn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="the third" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -161,7 +227,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562224991593" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562229037218" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -170,6 +236,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -183,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo9">
+  <component name="RunManager" selected="Application.ReverseString">
     <configuration name="Demo7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo7" />
       <module name="the third" />
@@ -221,11 +292,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.Demo9" />
         <item itemvalue="Application.Demo8" />
         <item itemvalue="Application.Demo7" />
         <item itemvalue="Application.LoopDemo" />
-        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
   </component>
@@ -240,15 +311,24 @@
       <option name="presentableId" value="Default" />
       <updated>1562157369337</updated>
       <workItem from="1562157370469" duration="1064000" />
-      <workItem from="1562158764199" duration="10442000" />
+      <workItem from="1562158764199" duration="12459000" />
     </task>
+    <task id="LOCAL-00001" summary="add demo">
+      <created>1562225050376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562225050376</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11506000" />
+    <option name="totallyTimeSpent" value="13523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="27" y="28" width="1400" height="791" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -276,7 +356,7 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3298969" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
@@ -284,29 +364,33 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="add demo" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/the third/src/Demo7.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/the third/src/Demo7.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/the third/src/Demo7.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/the third/src/Demo7.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/the third/src/Demo8.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/the third/src/Demo8.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/the third/src/Demo9.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/the third/src/Demo9.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="8" />
@@ -323,7 +407,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/the third/src/hello.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" selection-start-column="13" selection-end-column="13" />
@@ -334,28 +418,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/the third/src/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/the third/src/InputTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/InputTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="114" selection-start-line="9" selection-start-column="114" selection-end-line="9" selection-end-column="114" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/the third/src/LoopDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/LoopDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/the third/src/Demo7.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/Demo7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
@@ -365,17 +442,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/the third/src/Demo8.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/Demo8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/the third/src/Demo9.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/Demo9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="22" column="55" lean-forward="true" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
+        <state relative-caret-position="77">
+          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/ReverseString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
         </state>
       </provider>
     </entry>
