@@ -1,4 +1,7 @@
-import java.util.*;
+package com.yxq.third;
+
+import java.util.Scanner;
+
 public class ReverseString {
     public static char[] reverse(char[] src,int size)
     {

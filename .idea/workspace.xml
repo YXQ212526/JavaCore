@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8192ba5b-3557-4a17-993b-051793cc7129" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/JavaCore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JavaCore.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/Demo7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/Demo7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/Demo8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/Demo8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/Demo9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/Demo9.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/InputTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/InputTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/LoopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/LoopDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/out/production/the third/Demo7.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/out/production/the third/Demo7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/out/production/the third/Demo8.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/out/production/the third/Demo8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/out/production/the third/InputTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/out/production/the third/InputTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/out/production/the third/LoopDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/out/production/the third/LoopDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/out/production/the third/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/out/production/the third/ReverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/src/out/production/the third/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/the third/src/out/production/the third/hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/the third/the third.iml" beforeDir="false" />
-    </list>
+    <list default="true" id="8192ba5b-3557-4a17-993b-051793cc7129" name="Default Changelist" comment="add demo" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,8 +66,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/Demo9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+            <state relative-caret-position="150">
+              <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -105,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/ReverseString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <state relative-caret-position="180">
+              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -164,8 +143,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="27" />
-    <option name="y" value="28" />
+    <option name="x" value="19" />
+    <option name="y" value="23" />
     <option name="width" value="1400" />
     <option name="height" value="791" />
   </component>
@@ -227,7 +206,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562229037218" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562230891269" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -311,7 +290,7 @@
       <option name="presentableId" value="Default" />
       <updated>1562157369337</updated>
       <workItem from="1562157370469" duration="1064000" />
-      <workItem from="1562158764199" duration="12459000" />
+      <workItem from="1562158764199" duration="13222000" />
     </task>
     <task id="LOCAL-00001" summary="add demo">
       <created>1562225050376</created>
@@ -324,11 +303,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13523000" />
+    <option name="totallyTimeSpent" value="14286000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="28" width="1400" height="791" extended-state="0" />
-    <editor active="true" />
+    <frame x="23" y="175" width="1400" height="791" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -449,13 +427,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/Demo9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -470,10 +441,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/Demo9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/the third/src/ReverseString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        <state relative-caret-position="180">
+          <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>

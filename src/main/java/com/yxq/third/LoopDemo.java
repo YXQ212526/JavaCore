@@ -1,3 +1,5 @@
+package com.yxq.third;
+
 import java.util.Scanner;
 
 public class LoopDemo {

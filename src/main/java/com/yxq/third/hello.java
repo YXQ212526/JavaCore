@@ -1,3 +1,5 @@
+package com.yxq.third;
+
 public class hello {
     public static void main(String[]args)
     {
