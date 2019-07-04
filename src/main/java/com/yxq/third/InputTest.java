@@ -9,7 +9,7 @@ public class InputTest {
     String name=in.nextLine();
     System.out.println("age?");
     int age=in.nextInt();
-    System.out.println("hello,"+name+",next year,you will "+age+1);/*不加括号认为是字符串,hello,yuanxueqi,next year,you will 181*/
-    System.out.println("hello,"+name+",next year,you will "+(age+1));    /*hello,yuanxueqi,next year,you will 19*/
+    System.out.println("Hello,"+name+",next year,you will "+age+1);/*不加括号认为是字符串,Hello,yuanxueqi,next year,you will 181*/
+    System.out.println("Hello,"+name+",next year,you will "+(age+1));    /*Hello,yuanxueqi,next year,you will 19*/
     }
 }
