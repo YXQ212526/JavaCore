@@ -17,7 +17,7 @@ public class Myqueue<T> {
     }
 
     Node<T> node = new Node<T>(val);
-    if (head ==null&&rear==null) {
+    if (head == null && rear == null) {
       head = rear = node;
     } else {
       rear.next = node;
@@ -26,9 +26,10 @@ public class Myqueue<T> {
     currentsize++;
   }
 
-  public T pop() throws Exception {
+  public T pop() /*throws Exception*/ {
     if (isNull()) {
-      throw new Exception("it is null");
+//      throw new Exception("it is null");
+      return null;
     }
     T val = head.getData();
 
@@ -50,7 +51,6 @@ public class Myqueue<T> {
   }
 
 
-
 }
 
 class Node<T> {
@@ -61,6 +61,7 @@ class Node<T> {
   Node(T val) {this.val = val;}
 
   public T getData() {
+
     return val;
 
   }

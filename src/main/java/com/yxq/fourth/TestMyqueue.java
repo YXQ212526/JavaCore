@@ -10,27 +10,28 @@ public class TestMyqueue {
     qu.push(1);
     System.out.println(qu.size());
     System.out.println(qu.isNull());
-    try {
-      System.out.println(qu.pop());
-    } catch (Exception e) {
-      System.out.println(e.getMessage());
-
-
-    }
-    try {
-      System.out.println(qu.pop());
-    } catch (Exception e) {
-      System.out.println(e.getMessage());
-
-
-    }
-    try {
-      System.out.println(qu.pop());
-    } catch (Exception e) {
-      System.out.println(e.getMessage());
-
-
-    }
+//    try {
+    System.out.println(qu.pop());
+//    } catch (Exception e) {
+//      System.out.println(e.getMessage());
+//
+//
+//    }
+//    try {
+    System.out.println(qu.pop());
+//    } catch (Exception e) {
+//      System.out.println(e.getMessage());
+//
+//
+//    }
+//    try {
+    System.out.println(qu.pop());
+    System.out.println(qu.pop());
+//    } catch (Exception e) {
+//      System.out.println(e.getMessage());
+//
+//
+//    }
     System.out.println(qu.size());
   }
 }
